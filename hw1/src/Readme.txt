@@ -1,0 +1,1 @@
+Assignment 1Code has been implemented for the following• All the four shallow slopes• All the four steep slopes• Positive and Negative diagonals• Horizontal Straight lines• Vertical Straight linesFor Letter K and C multiple calls have been done to drawline function

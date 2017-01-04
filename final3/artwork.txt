@@ -1,0 +1,12 @@
+I have created 8 objects in all. 6 cubes and 2 spheres.
+
+The camera position has been changed with respect to original image.(in view params)
+Camera position changed by following the below things.
+You can do animation by pressing "a" key and stopping by using "s" key. Please restart program because the camera moves upwards after animation has started. Though it will move slowly so it will take some time before objects are not visible.
+
+I have used phong shading and applied and material properties(ambient,diffuse,specular).
+(in light params).Light source is applied to spheres.
+
+Texture mapping is done on all objects. It is not coming proper because of the wrong co-ordinates passed. Background image is also coming a bit. (in texture params)
+
+I have attached the images with code.
